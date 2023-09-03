@@ -1,4 +1,15 @@
 # Authors
+Artemis Xu:
+  name: Artemis Xu
+  picture: /images/bio-photo-2.jpg
+  twitter:
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/artemis-xu-2579a827a/
+      icon: fab fa-linkedin-square
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=DPfVPA0AAAAJ&hl=en
+      icon: fab fa-google     
 
 Billy Rick:
   name: Billy Rick
