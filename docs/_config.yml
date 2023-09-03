@@ -18,13 +18,13 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/so-simple-theme"
-url: "https://mmistakes.github.io"
+title: "Artemis Xu"
+description: "Personal Webpage"
+baseurl: "/home"
+url: "https://art-xu.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
-read_time: true
+read_time: false
 words_per_minute: # 200
 mathjax:
   enable: true
@@ -39,7 +39,7 @@ google_analytics: "UA-2011187-2"
 disqus:
   shortname: "sosimpletheme"
 twitter:
-  username: "mmistakes"
+  username: ""
 google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 # Liquid
@@ -96,7 +96,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
   # Recipe defaults
   - scope:
@@ -104,7 +104,7 @@ defaults:
       type: recipes
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
 
 # Site Author
