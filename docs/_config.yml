@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Artemis Xu"
 description: "Personal Webpage"
-baseurl: "/home"
+baseurl: 
 url: "https://art-xu.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
